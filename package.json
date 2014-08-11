@@ -1,6 +1,6 @@
 {
   "name": "node-fonts-used",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Node tool to find fonts used in a stylesheet",
   "main": "index.js",
   "dependencies": {
@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/JohnCashmore/node-fonts-used/issues"
   },
-  "homepage": "https://github.com/JohnCashmore/node-fonts-used"
+  "homepage": "https://github.com/JohnCashmore/node-fonts-used",
+  "bin": {
+    "fontsused": "./bin/cli.js"
+  }
 }
