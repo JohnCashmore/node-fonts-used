@@ -1,0 +1,28 @@
+{
+  "name": "node-fonts-used",
+  "version": "0.1.0",
+  "description": "Node tool to find fonts used in a stylesheet",
+  "main": "index.js",
+  "dependencies": {
+    "css": "^2.1.0",
+    "css-font-parser": "^0.2.0",
+    "underscore": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/find.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JohnCashmore/node-fonts-used.git"
+  },
+  "keywords": [
+    "fonts"
+  ],
+  "author": "John Cashmore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnCashmore/node-fonts-used/issues"
+  },
+  "homepage": "https://github.com/JohnCashmore/node-fonts-used"
+}
