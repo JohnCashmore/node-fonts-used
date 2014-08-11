@@ -1,6 +1,6 @@
 {
   "name": "node-fonts-used",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Node tool to find fonts used in a stylesheet",
   "main": "index.js",
   "dependencies": {

@@ -16,5 +16,14 @@ var fontsUsed = require('node-fonts-used');
 var fontsArray = fontsUsed.findFonts('body { font-size: 12px; font-family: Arial; }');
 
 ```
-
 Returns an array of fonts used.
+
+
+
+You can also use the tool from the command line.
+
+```
+    $ fontsused file.css
+
+```
+
