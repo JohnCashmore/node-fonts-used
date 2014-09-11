@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/JohnCashmore/node-fonts-used/badges/gpa.svg)](https://codeclimate.com/github/JohnCashmore/node-fonts-used)
+
 CSS font finder
 ===============
 
